@@ -6,13 +6,13 @@ TASK 1 : Data Distribution and Visualization Project
 .  DATASET USED : Hyderabad city's Environmental data
 
 .  Fields in the Dataset:
-   Temperature(Continuous)       -	Recorded in °C; Helps analyze heat patterns and climate trends.
-   Rainfall(ContinuoUS)          - 	Measured in mm; Important for understanding precipitation trends.
-   Pollution_level	(Continuous)	- Could be in AQI or ppm; Reflects air quality over time.
-   Season	(Categorical)	        - e.g., Summer, Monsoon, Winter; Important for seasonal comparisons.
-   Month	(Categorical)	          - January to December; Helps in identifying monthly variations.
-   Region	(Categorical)         -	Sub-locations in Hyderabad; Allows for regional analysis.
-   Pollution_source(Categorical) -	e.g., Traffic, Industry, Domestic; Helps in source-wise pollution analysis.
+   - Temperature(Continuous)       -	Recorded in °C; Helps analyze heat patterns and climate trends.
+   - Rainfall(ContinuoUS)          - 	Measured in mm; Important for understanding precipitation trends.
+   - Pollution_level	(Continuous)	- Could be in AQI or ppm; Reflects air quality over time.
+   - Season	(Categorical)	        - e.g., Summer, Monsoon, Winter; Important for seasonal comparisons.
+   - Month	(Categorical)	          - January to December; Helps in identifying monthly variations.
+   - Region	(Categorical)         -	Sub-locations in Hyderabad; Allows for regional analysis.
+   - Pollution_source(Categorical) -	e.g., Traffic, Industry, Domestic; Helps in source-wise pollution analysis.
 
  Main Purpose of the Task:
 - To visualize the distribution of Continuous variables and Categorical variables with use of Use of  Histograms and Bar charts
